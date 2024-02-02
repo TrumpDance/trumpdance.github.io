@@ -1,9 +1,4 @@
-/**
-  * Name: Cyfonii - NFT Portfolio and Landing Page HTML Template
-  * Version: 1.0.4
-  * Author: Themesflat
-  * Author URI: http://www.themesflat.com
-*/
+
 @import '../bootstrap/css/bootstrap.min.css';
 @import '../../assets/style.css';
 @import url("https://fonts.cdnfonts.com/css/conthrax");
@@ -16,7 +11,7 @@
 
 body {
   font-family: "Readex Pro", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.4;
   color: #FFFFFF;
@@ -1266,6 +1261,8 @@ a {
   border-radius: 100px;
   display: inline-block;
   margin-bottom: 22px;
+  font-size: 32px;
+  font-weight: normal;
 }
 .block-text .sub-heading span {
   background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%), #FFFFFF;
@@ -1307,7 +1304,7 @@ a {
 .banner .block-text .desc {
   padding-right: 130px;
   margin-bottom: 40px;
-  font-size: 16px;
+  font-size: 24px;
 }
 @media only screen and (max-width: 1200px) {
   .banner .block-text .desc {
